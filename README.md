@@ -144,7 +144,7 @@ cd /etc/hellominer && rm -rf hellominer hellominer.tar.gz && curl -o hellominer.
 ## ETH ALPH 双挖注意事项
 ### ETH ALPH 双挖现已完美支持，请仔细阅读以下说明并按照要求配置。
 
-1.windows 支持 ETH + TON 双挖的内核有 `lolminer` [下载地址](https://github.com/Lolliedieb/lolMiner-releases/releases) 。
+1.windows 支持 ETH + ALPH 双挖的内核有 `lolminer` [下载地址](https://github.com/Lolliedieb/lolMiner-releases/releases) 。
 
 2.在`hellominer`（假设IP是:`192.168.0.1`）里面添加两个矿池。    
 比如：  
